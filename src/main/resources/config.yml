@@ -1,0 +1,2 @@
+connection_uri: "mongodb://localhost:27017"
+database_name: "minecraft"
