@@ -5,8 +5,6 @@ import cn.nukkit.utils.TextFormat;
 import com.mongodb.MongoTimeoutException;
 import com.mongodb.client.MongoDatabase;
 import com.uniloftsky.nukkit.connection.Connection;
-import com.uniloftsky.nukkit.test.Message;
-import com.uniloftsky.nukkit.test.MessageRepository;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 
