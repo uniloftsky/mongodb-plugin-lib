@@ -1,11 +1,11 @@
-package com.uniloftsky.nukkit.database;
+package com.uniloftsky.nukkit.driver.database;
 
 
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.model.Filters;
 import com.mongodb.client.result.InsertOneResult;
-import com.uniloftsky.nukkit.MongoDB;
-import com.uniloftsky.nukkit.database.model.BaseEntity;
+import com.uniloftsky.nukkit.driver.MongoDB;
+import com.uniloftsky.nukkit.driver.database.model.BaseEntity;
 import org.bson.types.ObjectId;
 
 import java.lang.reflect.ParameterizedType;

@@ -1,10 +1,10 @@
-package com.uniloftsky.nukkit;
+package com.uniloftsky.nukkit.driver;
 
 import cn.nukkit.plugin.PluginBase;
 import cn.nukkit.utils.TextFormat;
 import com.mongodb.MongoTimeoutException;
 import com.mongodb.client.MongoDatabase;
-import com.uniloftsky.nukkit.connection.Connection;
+import com.uniloftsky.nukkit.driver.connection.Connection;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 

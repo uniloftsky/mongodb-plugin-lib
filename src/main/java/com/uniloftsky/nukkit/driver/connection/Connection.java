@@ -1,4 +1,4 @@
-package com.uniloftsky.nukkit.connection;
+package com.uniloftsky.nukkit.driver.connection;
 
 import com.mongodb.ConnectionString;
 import com.mongodb.MongoClientSettings;

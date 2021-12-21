@@ -1,4 +1,4 @@
-package com.uniloftsky.nukkit.database.model;
+package com.uniloftsky.nukkit.driver.database.model;
 
 import lombok.*;
 import org.bson.codecs.pojo.annotations.BsonId;

@@ -2,5 +2,5 @@ name: MongoDB
 version: 1.0.0-SNAPSHOT
 author: uniloftsky
 api: 1.0.0
-main: com.uniloftsky.nukkit.MongoDB
+main: com.uniloftsky.nukkit.driver.MongoDB
 description: A MongoDB driver plugin
